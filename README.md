@@ -1,6 +1,8 @@
 # todo.kak
 
-Toggle checkboxes in Kakoune.
+Toggle checkboxes in [Kakoune].
+
+[kakoune]: https://kakoune.org
 
 ## Installation
 
